@@ -1,1 +1,2 @@
 # Credit_risk_data
+Project Objective: The objective of this project is to develop a machine learning model that predicts the likelihood of a credit card client defaulting on their payments in the next month. The model will use demographic data, repayment history, and financial details to generate accurate predictions that can assist financial institutions in managing credit risks more effectively.
